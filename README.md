@@ -102,23 +102,23 @@ I'm a **Computer Engineering** student at **HCMUT** with a strong foundation in 
 <hr>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=thvien-vo&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img width="80%" src="https://streak-stats.demolab.com/?user=thvien-vo&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF&currStreakNum=00D9FF&sideNums=00D9FF&sideLabels=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thvien-vo/thvien-vo/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="100%" />
+  <img src="https://raw.githubusercontent.com/thvien-vo/thvien-vo/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thvien-vo/thvien-vo/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language" width="48%" />
-  <img src="https://raw.githubusercontent.com/thvien-vo/thvien-vo/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="48%" />
+  <img src="https://raw.githubusercontent.com/thvien-vo/thvien-vo/main/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos Per Language" width="48%" />
+  <img src="https://raw.githubusercontent.com/thvien-vo/thvien-vo/main/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thvien-vo/thvien-vo/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="48%" />
-  <img src="https://raw.githubusercontent.com/thvien-vo/thvien-vo/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Commits by Hour" width="48%" />
+  <img src="https://raw.githubusercontent.com/thvien-vo/thvien-vo/main/profile-summary-card-output/2077/3-stats.svg" alt="Stats" width="48%" />
+  <img src="https://raw.githubusercontent.com/thvien-vo/thvien-vo/main/profile-summary-card-output/2077/4-productive-time.svg" alt="Commits by Hour" width="48%" />
 </div>
 
 ---
