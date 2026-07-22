@@ -19,7 +19,7 @@ jobs:
       # Sinh ra các card thống kê
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
           USERNAME: thvien-vo
           UTC_OFFSET: 7
