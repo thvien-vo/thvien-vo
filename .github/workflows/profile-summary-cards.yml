@@ -1,0 +1,32 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # Tự động cập nhật mỗi 6 tiếng
+  workflow_dispatch:         # Nút bấm chạy thủ công
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate profile summary cards
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # Sinh ra các card thống kê
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: thvien-vo
+          UTC_OFFSET: 7
+
+      # Tự động lưu (commit) các file ảnh SVG vào repo
+      - name: Commit and push generated cards
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update github profile summary cards [skip ci]"
+          file_pattern: "profile-summary-card-output/*"
