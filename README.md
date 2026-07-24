@@ -9,7 +9,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thvien-vo&color=00D9FF&style=for-the-badge&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thvien-vo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanh-vien-vo-nguyen-009a60423/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thvienvo@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/thvien-vo?style=for-the-badge&color=00D9FF)](https://github.com/thvien-vo)
 
